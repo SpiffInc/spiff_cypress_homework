@@ -12,7 +12,7 @@ To work on this coding exercise there are a few small things needed. Please foll
 
 ### Clone Repo(Dont Fork)
 ```
-git clone TODO(update git clone location command)
+git clone git@github.com:SpiffInc/spiff_cypress_homework.git
 ```
 
 ### Install Libraries
