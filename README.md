@@ -47,6 +47,4 @@ This is a simple cypress setup that tests a select area of focus on our spiff.co
 - Improve this spec's speed and readability by utilizing the before(), beforeEach(), after(), and afterEach() sections
 - After you are finished, please send the single file:[public-home-page.spec.js](cypress/integration/public-home-page.spec.js) with your changes back to the the member of the recruiting team that has been in contact! 
 
-Keep
-
 Good luck!
