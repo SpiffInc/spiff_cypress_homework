@@ -17,6 +17,7 @@ git clone git@github.com:SpiffInc/spiff_cypress_homework.git
 
 ### Install Libraries
 ```
+cd spiff_cypress_homework
 yarn install
 ```
 
