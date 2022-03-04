@@ -1,0 +1,11 @@
+{
+  "name": "spiff_cypress_homework",
+  "author": "Ryan Colborne",
+  "email": "email",
+  "license": "UNLICENSED",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
