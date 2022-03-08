@@ -6,7 +6,7 @@
 
 Hi! Thanks for applying to Spiff!
 
-To work on this coding exercise there are a few small things needed. Please follow the instructions below for Installation, Running your tests, and instructions on the exercise. This exerise is designed to get an idea on how you problem solve and how you work!
+To work on this coding exercise there are a few small things needed. Please follow the instructions below for Installation, Running your tests, and instructions on the exercise. This exercise is designed to get an idea on how you problem solve and how you work!
 
 [cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
 
@@ -21,8 +21,8 @@ cd spiff_cypress_homework
 yarn install
 ```
 
-### Running Cypress 
-To run cypress, type the following:
+### Running Cypress GUI
+To run Cypress, type the following:
 
 ```
 yarn cypress open
@@ -39,13 +39,13 @@ The tests will run in a headless browser and output results to the terminal. Thi
 
 
 ## Testing Exercise
-This is a simple cypress setup that tests a select area of focus on our spiff.com homepage.
+This is a simple Cypress setup that tests a select area of focus on our spiff.com homepage.
 
 
 ### Instructions
-- First we would like for you to fix the failing tests 
-- After that is resolved, please fullfill finshing test #3 "Bottom nav 'Get a demo'"
-- Improve this spec's speed and readability by utilizing the before(), beforeEach(), after(), and afterEach() sections
-- After you are finished, please send the single file:[public-home-page.spec.js](cypress/integration/public-home-page.spec.js) with your changes back to the the member of the recruiting team that has been in contact! 
+- First we would like for you to fix the failing tests
+- After that is resolved, please finish test #3 "Bottom nav 'Get a demo'"
+- Improve this spec's speed and readability by utilizing the before(), beforeEach(), after(), and afterEach() sections in anyway you think is best
+- After you are finished, please send the single file:[public-home-page.spec.js](cypress/integration/public-home-page.spec.js) with your changes back to the the member of the recruiting team that has been in contact!
 
 Good luck!
